@@ -1,0 +1,192 @@
+
+Algorithm: Support Vector Machine
+Confusion Matrix:
+[[199  62]
+ [ 59 220]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.76      0.77       261
+           1       0.78      0.79      0.78       279
+
+    accuracy                           0.78       540
+   macro avg       0.78      0.78      0.78       540
+weighted avg       0.78      0.78      0.78       540
+
+
+Algorithm: Random Forest
+Confusion Matrix:
+[[184  77]
+ [ 62 217]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.70      0.73       261
+           1       0.74      0.78      0.76       279
+
+    accuracy                           0.74       540
+   macro avg       0.74      0.74      0.74       540
+weighted avg       0.74      0.74      0.74       540
+
+
+Algorithm: Gradient Boosting
+Confusion Matrix:
+[[188  73]
+ [ 90 189]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.68      0.72      0.70       261
+           1       0.72      0.68      0.70       279
+
+    accuracy                           0.70       540
+   macro avg       0.70      0.70      0.70       540
+weighted avg       0.70      0.70      0.70       540
+
+
+Algorithm: AdaBoost
+Confusion Matrix:
+[[181  80]
+ [106 173]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.63      0.69      0.66       261
+           1       0.68      0.62      0.65       279
+
+    accuracy                           0.66       540
+   macro avg       0.66      0.66      0.66       540
+weighted avg       0.66      0.66      0.66       540
+
+
+Algorithm: K-Nearest Neighbors
+Confusion Matrix:
+[[255   6]
+ [264  15]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.49      0.98      0.65       261
+           1       0.71      0.05      0.10       279
+
+    accuracy                           0.50       540
+   macro avg       0.60      0.52      0.38       540
+weighted avg       0.61      0.50      0.37       540
+
+
+Algorithm: Logistic Regression
+Confusion Matrix:
+[[197  64]
+ [ 68 211]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.75      0.75       261
+           1       0.77      0.76      0.76       279
+
+    accuracy                           0.76       540
+   macro avg       0.76      0.76      0.76       540
+weighted avg       0.76      0.76      0.76       540
+
+
+Algorithm: Stochastic Gradient Descent
+Confusion Matrix:
+[[184  77]
+ [ 44 235]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.70      0.75       261
+           1       0.75      0.84      0.80       279
+
+    accuracy                           0.78       540
+   macro avg       0.78      0.77      0.77       540
+weighted avg       0.78      0.78      0.77       540
+
+
+Algorithm: Decision Tree
+Confusion Matrix:
+[[163  98]
+ [ 90 189]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.62      0.63       261
+           1       0.66      0.68      0.67       279
+
+    accuracy                           0.65       540
+   macro avg       0.65      0.65      0.65       540
+weighted avg       0.65      0.65      0.65       540
+
+
+Algorithm: Multinomial Naive Bayes
+Confusion Matrix:
+[[183  78]
+ [ 32 247]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.70      0.77       261
+           1       0.76      0.89      0.82       279
+
+    accuracy                           0.80       540
+   macro avg       0.81      0.79      0.79       540
+weighted avg       0.80      0.80      0.79       540
+
+
+Algorithm: Multi-Layer Perceptron
+Confusion Matrix:
+[[194  67]
+ [ 59 220]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.77      0.74      0.75       261
+           1       0.77      0.79      0.78       279
+
+    accuracy                           0.77       540
+   macro avg       0.77      0.77      0.77       540
+weighted avg       0.77      0.77      0.77       540
+
+
+Algorithm: Linear Discriminant Analysis
+Confusion Matrix:
+[[157 104]
+ [ 94 185]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.63      0.60      0.61       261
+           1       0.64      0.66      0.65       279
+
+    accuracy                           0.63       540
+   macro avg       0.63      0.63      0.63       540
+weighted avg       0.63      0.63      0.63       540
+
+
+Algorithm: Quadratic Discriminant Analysis
+Confusion Matrix:
+[[ 68 193]
+ [ 28 251]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.26      0.38       261
+           1       0.57      0.90      0.69       279
+
+    accuracy                           0.59       540
+   macro avg       0.64      0.58      0.54       540
+weighted avg       0.63      0.59      0.54       540
+
